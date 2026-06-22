@@ -1,0 +1,23 @@
+# Large data files (too big for GitHub)
+online_retail.csv
+shopper_spectrum_models.pkl
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Environment
+.env
+.venv
+venv/
+env/
+
+# OS files
+.DS_Store
+Thumbs.db
