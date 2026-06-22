@@ -1,5 +1,5 @@
-# Large model file (too big for GitHub)
-shopper_spectrum_models.pkl
+# Large files managed via Git LFS (see .gitattributes)
+# *.pkl files are tracked by LFS automatically
 
 # Python cache
 __pycache__/
