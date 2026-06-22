@@ -1,5 +1,4 @@
-# Large data files (too big for GitHub)
-online_retail.csv
+# Large model file (too big for GitHub)
 shopper_spectrum_models.pkl
 
 # Python cache
